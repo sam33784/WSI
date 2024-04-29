@@ -1,6 +1,6 @@
 Feature: Login page feature
 
-hello
+#hello
 
 
 Scenario:Login page title
